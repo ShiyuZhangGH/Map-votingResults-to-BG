@@ -6,8 +6,8 @@ This project maps voting results at precinct levels to census block groups.
  
 *Input Data*: Data used in the code scripts can be downloaded from https://drive.google.com/drive/folders/1owbbjTNok5RDU4qaBuzQYzD9-yWKwnvO?usp=sharing. To run the code script `PrecinctToBG.ipynb`, the downloaded data folder should be put in the same path as the the code script:
 
-<img>
-![Equalizer](fileStructure.png)
+<img src= "fileStructure.png" width= "300">
+![](fileStructure.png)
 
 
  
